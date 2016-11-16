@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Alistair.com"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Alistair Calder"
+description              : "Alistair Calder: Husband, father, senior systems analyst and faculty (on leave) from BC Institute of Technology, and a Master's student at Royal Roads University."
+url                      : http://localhost # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "alistaircom/alistaircom.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/fallback.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,22 +77,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Alistair Calder"
+  avatar           : "/assets/images/ac-bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Husband, dad, web guy, hockey player, Canadian."
+  location         : "Burnaby"
+  locationurl      : "https://en.wikipedia.org/wiki/Burnaby"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : calder
   facebook         :
   foursquare       :
-  github           :
+  github           : alistaircom
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : alistaircalder
   lastfm           :
   linkedin         :
   pinterest        :
@@ -100,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : alistaircalder
   vine             :
   weibo            :
   xing             :
